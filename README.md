@@ -37,6 +37,20 @@ Approach:
 
       Connect SQL to Power BI/Tableau, import the data, and create interactive dashboards.
 
+     
 4.Develop 10 SQL Queries
 
-     Formulate and execute 10 SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
+     Formulate and execute 10 SQL queries to extract key insights from the data. 
+     These queries should address important business questions and support the analysis steps below.
+
+Results
+
+   The final deliverable will be a comprehensive EDA report for Global Electronics, featuring:
+
+   Clean and integrated datasets.
+
+   In-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and currency impact.
+
+   Visually compelling dashboards in Power BI/Tableau.
+
+   Actionable recommendations for enhancing marketing strategies, optimizing inventory, improving sales forecasting, guiding product development, and informing store expansion decisions.
