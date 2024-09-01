@@ -31,11 +31,11 @@ Approach:
      Merge datasets where necessary for analysis (e.g., linking sales data with product and customer data).
 2.Load Data
 
-     Insert the preprocessed data into an SQL database by creating relevant tables for each data source and using SQL INSERT statements to load the data.
+   Insert the preprocessed data into an SQL database by creating relevant tables for each data source and using SQL INSERT statements to load the data.
 
 3.Power BI Visualization
-
-      Connect SQL to Power BI/Tableau, import the data, and create interactive dashboards.
+   
+   Connect SQL to Power BI/Tableau, import the data, and create interactive dashboards.
 
      
 4.Develop 10 SQL Queries
