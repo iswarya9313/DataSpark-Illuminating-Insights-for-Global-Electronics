@@ -1,13 +1,13 @@
 # DataSpark-Illuminating-Insights-for-Global-Electronics
-Project Overview
+# Project Overview
 
 DataSpark: Illuminating Insights for Global Electronics is a retail analytics project focused on the electronics industry. The aim is to conduct a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from Global Electronics' data and provide actionable recommendations to enhance customer satisfaction, optimize operations, and drive business growth
 
-Problem Statement
+# Problem Statement
 
 As part of Global Electronics' data analytics team, the goal is to analyze data from customers, products, sales, stores, and currency exchange rates to identify key insights that will enhance marketing strategies, optimize inventory management, improve sales forecasting, and drive overall business growth.
 
-Tools and Technologies
+# Tools and Technologies
 Before you begin, ensure you have the following installed:
 
 Python: For data cleaning, preparation, and statistical analysis (using libraries like Pandas, NumPy, Matplotlib, Seaborn).
@@ -20,9 +20,9 @@ Business Use Cases:
 
 By analyzing Global Electronics' customer, product, sales, and store data, we aim to identify key insights that will enhance marketing strategies, optimize inventory management, and improve sales forecasting. This will help tailor marketing campaigns, develop better products, plan effective promotions, and decide on store expansions and optimizations. Additionally, understanding the impact of currency exchange rates on sales will allow for better international pricing strategies. Overall, these insights will help Global Electronics increase customer satisfaction and drive business growth.
 
-Approach:
+## Approach:
 
-1. Data Cleaning and Preparation:
+ 1. Data Cleaning and Preparation:
    
      Check for missing values and handle them appropriately.
 
@@ -45,7 +45,7 @@ Approach:
 
    These queries should address important business questions and support the analysis steps below.
 
-Results
+# Results
 
    The final deliverable will be a comprehensive EDA report for Global Electronics, featuring:
 
