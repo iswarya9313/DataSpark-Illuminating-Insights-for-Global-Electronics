@@ -29,6 +29,7 @@ Approach:
      Convert data types where necessary (e.g., dates, numerical values).
 
      Merge datasets where necessary for analysis (e.g., linking sales data with product and customer data).
+
 2.Load Data
 
    Insert the preprocessed data into an SQL database by creating relevant tables for each data source and using SQL INSERT statements to load the data.
@@ -40,8 +41,9 @@ Approach:
      
 4.Develop 10 SQL Queries
 
-     Formulate and execute 10 SQL queries to extract key insights from the data. 
-     These queries should address important business questions and support the analysis steps below.
+   Formulate and execute 10 SQL queries to extract key insights from the data. 
+
+   These queries should address important business questions and support the analysis steps below.
 
 Results
 
