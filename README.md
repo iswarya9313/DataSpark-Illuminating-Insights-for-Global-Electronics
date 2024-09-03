@@ -8,7 +8,6 @@ DataSpark: Illuminating Insights for Global Electronics is a retail analytics pr
 As part of Global Electronics' data analytics team, the goal is to analyze data from customers, products, sales, stores, and currency exchange rates to identify key insights that will enhance marketing strategies, optimize inventory management, improve sales forecasting, and drive overall business growth.
 
 # Tools and Technologies
-Before you begin, ensure you have the following installed:
 
 Python: For data cleaning, preparation, and statistical analysis (using libraries like Pandas, NumPy, Matplotlib, Seaborn).
 
